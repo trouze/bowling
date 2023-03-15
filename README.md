@@ -4,4 +4,7 @@ A beginner bowling game written using python's turtle package. To run on WSL, yo
 sudo apt-get install python3-tk
 ```
 
-Otherwise, your base python install should have turtle installed.
+Otherwise, your base python install should have turtle installed. You can run the game with a simple:
+```
+python3 bowling.py
+```
